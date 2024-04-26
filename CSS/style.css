@@ -59,7 +59,7 @@ body {
     background-color: #546e7a;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 558px) {
     #toggle-menu {
         background-color: #eeff41 !important;
         color: black;
